@@ -1,6 +1,6 @@
 -r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v2.7.9/tested_requirements/requirements_39.reqs
-st_pages>=0.4.3
-streamlit>=1.25.0
+
+streamlit
 geopandas
 pyshp
 openpyxl

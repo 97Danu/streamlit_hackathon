@@ -4,7 +4,6 @@ from snowflake.connector.pandas_tools import write_pandas
 from pathlib import Path
 import time
 import pandas as pd
-# from st_pages import Page, add_page_title, show_pages
 from PIL import Image
 from io import BytesIO
 import requests 
